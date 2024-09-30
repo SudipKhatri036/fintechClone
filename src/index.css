@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  font-family: "Outfit", sans-serif;
+}
+
+.custom-list li::marker {
+  margin-right: 1px;
+}
