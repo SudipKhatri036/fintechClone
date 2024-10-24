@@ -6,7 +6,6 @@ import Testimonal from "../components/Testimonal";
 import ServingList from "../components/ServingList";
 import TrusteBy from "../components/TrusteBy";
 import HomeFeatures from "../components/HomeFeatures";
-import FetchData from "../components/FetchData";
 
 function Homepage() {
   return (
@@ -18,7 +17,6 @@ function Homepage() {
       <Testimonal />
       <ServingList />
       <TrusteBy />
-      <FetchData />
     </main>
   );
 }

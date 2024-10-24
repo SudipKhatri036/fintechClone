@@ -26,9 +26,9 @@ function Footer() {
               name="email"
               placeholder="username@emaildomain.com"
               required
-              className="w-full rounded-md border-2 border-white bg-[hsla(0,0%,100%,.2)] p-2 text-[12px] outline-none"
+              className="mb-4 w-full rounded-md border-2 border-white bg-[hsla(0,0%,100%,.2)] p-2 text-[12px] outline-none"
             />
-            <p className="mb-4 mt-1 hidden text-xs tracking-wider text-red-500">
+            <p className="mt-1 hidden text-xs tracking-wider text-red-500">
               Required!
             </p>
 

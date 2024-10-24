@@ -31,22 +31,34 @@ function Header() {
               </a>
             </li>
             <li>
-              <a href="#" className="text-xl">
+              <a
+                href="#"
+                className="relative text-xl before:absolute before:-bottom-1 before:left-0 before:h-[2px] before:w-full before:origin-left before:scale-x-0 before:bg-primered before:transition-all before:duration-500 hover:before:origin-right hover:before:scale-x-100"
+              >
                 About
               </a>
             </li>
             <li>
-              <a href="#" className="text-xl">
+              <a
+                href="#"
+                className="relative text-xl before:absolute before:-bottom-1 before:left-0 before:h-[2px] before:w-full before:origin-left before:scale-x-0 before:bg-primered before:transition-all before:duration-500 hover:before:origin-right hover:before:scale-x-100"
+              >
                 Resources
               </a>
             </li>
             <li>
-              <a href="#" className="text-xl">
+              <a
+                href="#"
+                className="relative text-xl before:absolute before:-bottom-1 before:left-0 before:h-[2px] before:w-full before:origin-left before:scale-x-0 before:bg-primered before:transition-all before:duration-500 hover:before:origin-right hover:before:scale-x-100"
+              >
                 Events
               </a>
             </li>
             <li>
-              <a href="#" className="text-xl">
+              <a
+                href="#"
+                className="relative text-xl before:absolute before:-bottom-1 before:left-0 before:h-[2px] before:w-full before:origin-left before:scale-x-0 before:bg-primered before:transition-all before:duration-500 hover:before:origin-right hover:before:scale-x-100"
+              >
                 Contact
               </a>
             </li>
